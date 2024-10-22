@@ -1,4 +1,4 @@
-# Challenge:
+# Challenge: Split-piping stderr and stdout
 
 ```bash
 hacker@piping~split-piping-stderr-and-stdout:/home$ /challenge/hack 2>/challenge/the >/challenge/planet
