@@ -1,4 +1,4 @@
-# Challenge: Exclusionary Globbing
+# Challenge: Redirecting Output
 
 In this challenge, the objective is to use an exclusionary globbing pattern to match files that do not start with specific characters in order to retrieve a flag.
 
