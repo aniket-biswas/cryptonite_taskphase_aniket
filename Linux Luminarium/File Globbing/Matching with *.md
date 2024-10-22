@@ -1,4 +1,4 @@
-# Globbing Challenge Solution
+# Matching with *
 
 This repository documents the solution to a shell-based globbing challenge.
 
