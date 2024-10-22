@@ -35,4 +35,5 @@ This challenge focuses on understanding how to use globbing to match file names 
 
 This challenge required being in the correct working directory (`/home/hacker`) and using the absolute file path for globbing when files are in a different directory. Executing the command correctly yields the flag.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/ce3546e9-e47d-4156-b08f-d6c5fd3f194d)
+
