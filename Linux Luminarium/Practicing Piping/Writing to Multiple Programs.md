@@ -13,3 +13,6 @@ hacker@piping~writing-to-multiple-programs:~$
 ```
 ## Flag
 pwn.college{gnEilNu-Jc0gMg4IooDbb2fDLFc.dBDO0UDLwITO0czW}
+
+
+![Uploading image.png…]()
