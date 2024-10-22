@@ -1,19 +1,29 @@
 # Challenge: Redirecting More Output
 
-In this challenge, the objective is to successfully redirect output from a command into a file while navigating permission constraints.
+```bash
+hacker@piping~redirecting-more-output:/home$ cd
+hacker@piping~redirecting-more-output:~$ /challenge/run > myflag
+[INFO] WELCOME! This challenge makes the following asks of you:
+[INFO] - the challenge will check that output is redirected to a specific file path : myflag
+[INFO] - the challenge will output a reward file if all the tests pass : /flag
 
- ```bash
-hacker@piping~redirecting-output:/home$ echo PWN > COLLEGE
-bash: COLLEGE: Permission denied
-hacker@piping~redirecting-output:/home$ echo hi > asdf
-bash: asdf: Permission denied
+[HYPE] ONWARDS TO GREATNESS!
 
-hacker@piping~redirecting-output:/home$ cd
+[INFO] This challenge will perform a bunch of checks.
+[INFO] If you pass these checks, you will receive the /flag file.
 
-hacker@piping~redirecting-output:~$ echo PWN > COLLEGE
-Correct! You successfully redirected 'PWN' to the file 'COLLEGE'! Here is your flag
+[TEST] You should have redirected my stdout to a file called myflag. Checking...
+
+[PASS] The file at the other end of my stdout looks okay!
+[PASS] Success! You have satisfied all execution requirements.
+hacker@piping~redirecting-more-output:~$ cat myflag
+
+[FLAG] Here is your flag:
+[FLAG] pwn.college{wLphYRn3YmyUX01TTiJoP6zkb5i.dVjN1QDLwITO0czW}
+
+hacker@piping~redirecting-more-output:~$
+
 ```
 
-## Flag
-pwn.college{At4UuAobVrqxTWtJLRqH743-8dx.dRjN1QDLwITO0czW}
-hacker@piping~redirecting-output:~$ 
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/97fc9380-52f5-46f9-9400-76cfddcec537">
+
