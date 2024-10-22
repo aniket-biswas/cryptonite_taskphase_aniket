@@ -18,3 +18,5 @@ The task required running a binary located inside a directory named `challenge` 
 
 ##Flag
 pwn.college{gIr7Qad35zha2n4t5J76fcTF40H.dFjM4QDLwITO0czW}
+
+![image](https://github.com/user-attachments/assets/42b02f60-fc91-4230-a0cc-bcceadc0165b)
