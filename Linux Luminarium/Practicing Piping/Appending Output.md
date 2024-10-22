@@ -47,3 +47,6 @@ hacker@piping~appending-output:~$
 ```
 ## Flag
 pwn.college{ksz47ua7hZyk-6wnMYONY7WuQVA.ddDM5QDLwITO0czW}
+
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/8577dd60-dae2-41c9-b1d2-40ea514b62ab">
+
