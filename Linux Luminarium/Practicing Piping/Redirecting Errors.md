@@ -1,4 +1,4 @@
-# Challenge
+# Challenge: Redirecting Errors
 
 ```bash
 hacker@piping~redirecting-errors:/home$ cd
