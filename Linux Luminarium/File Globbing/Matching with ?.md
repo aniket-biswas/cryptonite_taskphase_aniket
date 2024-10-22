@@ -1,37 +1,42 @@
 # Matching with `?`
+# Challenge: Globbing with Path Matching
 
-This challenge demonstrates how to use shell globbing to match specific files within a directory and execute a command to retrieve a flag.
+In this challenge, the objective is to use globbing techniques to match a directory name and execute a command in a specific working directory.
 
 ## Steps:
 
-1. **Navigate to the `/challenge/files` directory:**
+1. **Navigate to the `/challenge` directory using globbing:**
 
-    Use the following command to change your current directory to where the challenge files are located:
+    Instead of directly typing the full path, we use globbing to match the directory name. The `?` wildcard matches a single character, so use the following command:
 
     ```bash
-    cd /challenge/files
+    cd /?ha??enge
     ```
 
-2. **Run the challenge command using globbing:**
+    This will navigate to the `/challenge` directory.
 
-    In this step, use the globbing pattern `file_[absh]` to match files in the directory. Execute the command:
+2. **Run the challenge command:**
+
+    Once you're in the `/challenge` directory, simply run the challenge command:
 
     ```bash
-    /challenge/run file_[absh]
+    /challenge/run
     ```
 
 3. **Retrieve the flag:**
 
-    After running the above command, you should see the following output with the flag:
+    After successfully running the command, the output will be:
 
     ```
-    You got it! Here is your flag!
-    pwn.college{MtSsmL7DM1uq_IqQby_yqmGsC6W.dNjM4QDLwITO0czW}
+    You ran me with the working directory of /challenge! Here is your flag:
+    pwn.college{YCLnF0gf2Et37aYmnMRBz2sDoIZ.dJjM4QDLwITO0czW}
     ```
 
 ## Summary:
 
-This challenge required navigating to a directory and using shell globbing to execute a specific command. The output included the flag which successfully completes the task.
+This challenge required using globbing (`?`) to match specific parts of a directory name and running a command from the correct working directory. Successfully doing so returns the flag.
 
 
-![image](https://github.com/user-attachments/assets/92c0e795-0218-4cff-aba3-c97b937011e6)
+
+![image](https://github.com/user-attachments/assets/55433575-225d-4f97-949b-1e0a9fb99fbd)
+
