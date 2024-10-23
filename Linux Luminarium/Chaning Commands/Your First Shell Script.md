@@ -1,7 +1,15 @@
 # Challenge: Your First Shell Script
 
+## Approach
+The challenge required writing and executing a basic shell script. Here's the method and approach to solve it:
+
+Problem Breakdown
+Create a Shell Script: You needed to create a shell script that invokes specific commands (in this case, '/challenge/pwn' and '/challenge/college').
+Make It Executable: After creating the script, you had to make it executable so it could be run directly from the terminal.
+Execute the Script: Finally, you needed to execute the script without explicitly invoking bash.
+
 ```bash
-acker@chaining~your-first-shell-script:/home$ cd
+hacker@chaining~your-first-shell-script:/home$ cd
 hacker@chaining~your-first-shell-script:~$ nano x.sh
 hacker@chaining~your-first-shell-script:~$ chmod +x x.sh
 chmod: cannot access 'x.sh': No such file or directory
