@@ -8,3 +8,5 @@ hacker@chaining~chaining-with-semicolons:/home$
 ```
 ## Flag
 `pwn.college{MDUrY6PZk08Cf-xeymfjWWAC3yX.dVTN4QDLwITO0czW}`
+
+![image](https://github.com/user-attachments/assets/534d4305-64e6-469c-b988-dfdc66924ee3)
