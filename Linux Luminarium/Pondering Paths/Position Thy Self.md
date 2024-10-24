@@ -1,7 +1,4 @@
-Here's a draft for your `README.md` file:
-
-```markdown
-# Shell Challenge: Absolute Path Execution
+# Challenge: Absolute Path Execution
 
 ## Challenge Overview
 
