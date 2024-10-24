@@ -13,12 +13,11 @@ In this challenge, the objective was to create files with specific names in the 
    ```
 
 2. **Creating Files**:
-   I created files using the `touch` command. I created one files:
+   I created files using the `touch` command. I created one file:
    - `pwn Command- touch college`
    
-   This was done with the following commands:
+   This was done with the following command:
    ```bash
-   touch pwn comma
    touch pwn Command- touch college
    ```
 
