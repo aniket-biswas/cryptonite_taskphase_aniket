@@ -1,4 +1,4 @@
-# Challenge: Absolute Path in /etc/apt/sources.list.d
+# Challenge: Position Elsewhere
 
 ## Challenge Overview
 
